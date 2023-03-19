@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aa4d9284-aa43-4c3c-815e-34b5242292a3"
+      }
+    },
+    "owner": "mattlgroff"
   }
 }
